@@ -32,5 +32,61 @@
         <members>*</members>
         <name>StaticResource</name>
     </types>
+    <types>
+        <members>*</members>
+        <name>StaticResource</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>CustomObject</name>
+    </types>
+
+    <!-- Custom Fields -->
+    <types>
+        <members>*</members>
+        <name>CustomField</name>
+    </types>
+
+    <!-- Flow -->
+    <types>
+        <members>*</members>
+        <name>Flow</name>
+    </types>
+
+    <!-- Permission Set -->
+    <types>
+        <members>*</members>
+        <name>PermissionSet</name>
+    </types>
+
+    <!-- Path Assistant Settings -->
+    <types>
+        <members>*</members>
+        <name>PathAssistant</name>
+    </types>
+
+    <!-- Lightning Record Page (Correct Type: FlexiPage) -->
+    <types>
+        <members>*</members>
+        <name>FlexiPage</name>
+    </types>
+
+    <!-- Quick Actions -->
+    <types>
+        <members>*</members>
+        <name>QuickAction</name>
+    </types>
+
+    <!-- Custom Application (Lightning Builder App) -->
+    <types>
+        <members>Lightning_Builder_App</members>
+        <name>CustomApplication</name>
+    </types>
+
+    <!-- Custom Metadata -->
+    <types>
+        <members>*</members>
+        <name>CustomMetadata</name>
+    </types>
     <version>63.0</version>
 </Package>
